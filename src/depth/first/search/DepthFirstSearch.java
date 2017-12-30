@@ -1,21 +1,26 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package depth.first.search;
 
 /**
  *
  * @author maher
  */
+
+/**
+ * Depth First Search Algo is an uninformed graph traversal algorithm
+ * which produces a non-optimal solution 
+ * but can be useful for traversing quickly into deeper search domains
+ * 
+ * in that algorithm you start at the top most node in a tree and then
+ * follow the left most branch until there exists no more leafs in that branch
+ * 
+ * ♥ RRDL ♥
+ */
+
 public class DepthFirstSearch {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
